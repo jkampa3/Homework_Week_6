@@ -10,3 +10,20 @@ button {
     border-color: #46b8da;
 }
 */
+
+
+.gifDiv {
+    float: left;
+    margin: 2px;
+    padding: 1px;
+}
+
+
+.newGIPHYButton {
+    padding: 5px 10px;
+    font-size: 12px;
+    margin: 7px;
+    color: #fff;
+    background-color: #5bc0de;
+    border-width: 0px;
+}
